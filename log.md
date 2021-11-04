@@ -3,10 +3,10 @@
 <!-- TOC -->
 
 - [100 Days Of Code - Log](#100-days-of-code---log)
-  - [Day 00: January 03, 2017](#day-00-january-03-2017)
+  - [Day 00: November 02, 2021](#day-00-january-03-2017)
     - [Today's Progress](#todays-progress)
     - [Thoughts](#thoughts)
-  - [Day 01: January 04, 2017](#day-01-january-04-2017)
+  - [Day 01: November 03, 2021](#day-01-january-04-2017)
     - [Today's Progress](#todays-progress-1)
     - [Thoughts](#thoughts-1)
     - [Link(s) to work](#links-to-work)
