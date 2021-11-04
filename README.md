@@ -1,5 +1,5 @@
 # 100DaysOfCode
-100 Days of coding to develop my skills after work
+100 Days of coding to develop my skills after work. It's been awhile since college having to write any code so why not take on this as a way to get back into it.
 
 ## My Progress
 | [day 00][00]
