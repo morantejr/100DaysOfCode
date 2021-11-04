@@ -123,6 +123,8 @@
 |
 
 
+
+[00]: log.md#day-00-january-03-2017
 [01]: log.md#day-01-january-04-2017
 [02]: log.md#day-02-january-05-2017
 [03]: log.md#day-03-january-06-2017
