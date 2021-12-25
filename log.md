@@ -3,320 +3,320 @@
 <!-- TOC -->
 
 - [100 Days Of Code - Log](#100-days-of-code---log)
-  - [Day 00: November 02, 2021](#day-00-january-03-2017)
+  - [Day 00: January 01, 2022](#day-00-january-01-2022)
     - [Today's Progress](#todays-progress)
     - [Thoughts](#thoughts)
-  - [Day 01: November 03, 2021](#day-01-january-04-2017)
+  - [Day 01: January 02, 2022](#day-01-january-02-2022)
     - [Today's Progress](#todays-progress-1)
     - [Thoughts](#thoughts-1)
     - [Link(s) to work](#links-to-work)
-  - [Day 02: January 05, 2017](#day-02-january-05-2017)
+  - [Day 02: January 03, 2022](#day-02-january-03-2022)
     - [Today's Progress](#todays-progress-2)
     - [Thoughts](#thoughts-2)
-  - [Day 03: January 06, 2017](#day-03-january-06-2017)
+  - [Day 03: January 04, 2022](#day-03-january-04-2022)
     - [Today's Progress](#todays-progress-3)
     - [Thoughts](#thoughts-3)
-  - [Day 04: January 07, 2017](#day-04-january-07-2017)
+  - [Day 04: January 05, 2022](#day-04-january-05-2022)
     - [Today's Progress](#todays-progress-4)
     - [Thoughts](#thoughts-4)
-  - [Day 05: January 08, 2017](#day-05-january-08-2017)
+  - [Day 05: January 06, 2022](#day-05-january-06-2022)
     - [Today's Progress](#todays-progress-5)
     - [Thoughts](#thoughts-5)
-  - [Day 06: January 09, 2017](#day-06-january-09-2017)
+  - [Day 06: January 07, 2022](#day-06-january-07-2022)
     - [Today's Progress](#todays-progress-6)
     - [Thoughts](#thoughts-6)
     - [Link(s) to work](#links-to-work-1)
-  - [Day 07: January 10, 2017](#day-07-january-10-2017)
+  - [Day 07: January 08, 2022](#day-07-january-08-2022)
     - [Today's Progress](#todays-progress-7)
     - [Thoughts](#thoughts-7)
-  - [Day 08: January 11, 2017](#day-08-january-11-2017)
+  - [Day 08: January 09, 2022](#day-08-january-09-2022)
     - [Today's Progress](#todays-progress-8)
     - [Thoughts](#thoughts-8)
-  - [Day 09: January 12, 2017](#day-09-january-12-2017)
+  - [Day 09: January 10, 2022](#day-09-january-10-2022)
     - [Today's Progress](#todays-progress-9)
     - [Thoughts](#thoughts-9)
     - [Problems](#problems)
-  - [Day 10: January 13, 2017](#day-10-january-13-2017)
+  - [Day 10: January 11, 2022](#day-10-january-11-2022)
     - [Today's Progress](#todays-progress-10)
     - [Thoughts](#thoughts-10)
-  - [Day 11: January 14, 2017](#day-11-january-14-2017)
+  - [Day 11: January 12 2022](#day-11-january-12-2022)
     - [Today's Progress](#todays-progress-11)
     - [Thoughts](#thoughts-11)
-  - [Day 12: January 15, 2017](#day-12-january-15-2017)
+  - [Day 12: January 13, 2022](#day-12-january-13-2022)
     - [Today's Progress](#todays-progress-12)
     - [Thoughts](#thoughts-12)
     - [Link(s) to work](#links-to-work-2)
-  - [Day 13: January 16, 2017](#day-13-january-16-2017)
+  - [Day 13: January 14, 2022](#day-13-january-14-2022)
     - [Today's Progress](#todays-progress-13)
     - [Thoughts](#thoughts-13)
-  - [Day 14: January 17, 2017](#day-14-january-17-2017)
+  - [Day 14: January 15, 2022](#day-14-january-15-2017)
     - [Today's Progress](#todays-progress-14)
     - [Thoughts](#thoughts-14)
     - [Link(s) to work](#links-to-work-3)
-  - [Day 15: January 18, 2017](#day-15-january-18-2017)
+  - [Day 15: January 16, 2022](#day-15-january-16-2017)
     - [Today's Progress](#todays-progress-15)
     - [Thoughts](#thoughts-15)
     - [Link(s) to work](#links-to-work-4)
-  - [Day 16: January 19, 2017](#day-16-january-19-2017)
+  - [Day 16: January 17, 2022](#day-16-january-17-2017)
     - [Today's Progress](#todays-progress-16)
     - [Thoughts](#thoughts-16)
     - [Link(s) to work](#links-to-work-5)
-  - [Day 17: January 20, 2017](#day-17-january-20-2017)
+  - [Day 17: January 18, 2022](#day-17-january-18-2017)
     - [Today's Progress](#todays-progress-17)
     - [Thoughts](#thoughts-17)
     - [Link(s) to work](#links-to-work-6)
-  - [Day 18: January 21, 2017](#day-18-january-21-2017)
+  - [Day 18: January 19, 2022](#day-18-january-19-2017)
     - [Today's Progress](#todays-progress-18)
     - [Thoughts](#thoughts-18)
     - [Link(s) to work](#links-to-work-7)
-  - [Day 19: January 22, 2017](#day-19-january-22-2017)
+  - [Day 19: January 20, 2022](#day-19-january-20-2022)
     - [Today's Progress](#todays-progress-19)
     - [Thoughts](#thoughts-19)
     - [Link(s) to work](#links-to-work-8)
-  - [Day 20: January 23, 2017](#day-20-january-23-2017)
+  - [Day 20: January 21, 2022](#day-20-january-21-2022)
     - [Today's Progress](#todays-progress-20)
     - [Thoughts](#thoughts-20)
     - [Link(s) to work](#links-to-work-9)
-  - [Day 21: January 24, 2017](#day-21-january-24-2017)
+  - [Day 21: January 22, 2022](#day-21-january-22-2022)
     - [Today's Progress](#todays-progress-21)
     - [Thoughts](#thoughts-21)
     - [Link(s) to work](#links-to-work-10)
-  - [Day 22: January 25, 2017](#day-22-january-25-2017)
+  - [Day 22: January 23, 2022](#day-22-january-23-2022)
     - [Today's Progress](#todays-progress-22)
     - [Thoughts](#thoughts-22)
     - [Link(s) to work](#links-to-work-11)
-  - [Day 23: January 26, 2017](#day-23-january-26-2017)
+  - [Day 23: January 24, 2022](#day-23-january-24-2022)
     - [Today's Progress](#todays-progress-23)
     - [Thoughts](#thoughts-23)
     - [Link(s) to work](#links-to-work-12)
-  - [Day 24: January 27, 2017](#day-24-january-27-2017)
+  - [Day 24: January 25, 2022](#day-24-january-25-2022)
     - [Today's Progress](#todays-progress-24)
     - [Thoughts](#thoughts-24)
     - [Link(s) to work](#links-to-work-13)
-  - [Day 25: January 28, 2017](#day-25-january-28-2017)
+  - [Day 25: January 26, 2022](#day-25-january-26-2022)
     - [Today's Progress](#todays-progress-25)
     - [Thoughts](#thoughts-25)
     - [Link(s) to work](#links-to-work-14)
-  - [Day 26: January 29, 2017](#day-26-january-29-2017)
+  - [Day 26: January 27, 2022](#day-26-january-27-2022)
     - [Today's Progress](#todays-progress-26)
-  - [Day 27: January 31, 2017](#day-27-january-31-2017)
+  - [Day 27: January 28, 2022](#day-27-january-28-2022)
     - [Today's Progress](#todays-progress-27)
-  - [Day 28: February 01, 2017](#day-28-february-01-2017)
+  - [Day 28: January 29, 2022](#day-28-january-29-2022)
     - [Today's Progress](#todays-progress-28)
-  - [Day 29: February 02, 2017](#day-29-february-02-2017)
+  - [Day 29: January 30, 2022](#day-29-january-30-2022)
     - [Today's Progress](#todays-progress-29)
-  - [Day 30: February 03, 2017](#day-30-february-03-2017)
+  - [Day 30: January 31, 2022](#day-30-january-31-2022)
     - [Today's Progress](#todays-progress-30)
-  - [Day 31: February 04, 2017](#day-31-february-04-2017)
+  - [Day 31: February 01, 2022](#day-31-february-01-2022)
     - [Today's Progress](#todays-progress-31)
-  - [Day 32: February 05, 2017](#day-32-february-05-2017)
+  - [Day 32: February 02, 2022](#day-32-february-02-2022)
     - [Today's Progress](#todays-progress-32)
     - [Thoughts](#thoughts-26)
     - [Link(s) to work](#links-to-work-15)
-  - [Day 33: February 06, 2017](#day-33-february-06-2017)
+  - [Day 33: February 03, 2022](#day-33-february-03-2022)
     - [Today's Progress](#todays-progress-33)
     - [Thoughts](#thoughts-27)
     - [Link(s) to work](#links-to-work-16)
-  - [Day 34: February 07, 2017](#day-34-february-07-2017)
+  - [Day 34: February 04, 2022](#day-34-february-04-2022)
     - [Today's Progress](#todays-progress-34)
     - [Thoughts](#thoughts-28)
     - [Link(s) to work](#links-to-work-17)
-  - [Day 35: February 08, 2017](#day-35-february-08-2017)
+  - [Day 35: February 05, 2022](#day-35-february-05-2022)
     - [Today's Progress](#todays-progress-35)
     - [Thoughts](#thoughts-29)
     - [Link(s) to work](#links-to-work-18)
-  - [Day 36: February 09, 2017](#day-36-february-09-2017)
+  - [Day 36: February 06, 2022](#day-36-february-06-2022)
     - [Today's Progress](#todays-progress-36)
     - [Thoughts](#thoughts-30)
     - [Link(s) to work](#links-to-work-19)
-  - [Day 37: February 10, 2017](#day-37-february-10-2017)
+  - [Day 37: February 07, 2022](#day-37-february-07-2022)
     - [Today's Progress](#todays-progress-37)
     - [Thoughts](#thoughts-31)
     - [Link(s) to work](#links-to-work-20)
-  - [Day 38: February 11, 2017](#day-38-february-11-2017)
+  - [Day 38: February 08, 2022](#day-38-february-08-2022)
     - [Today's Progress](#todays-progress-38)
     - [Thoughts](#thoughts-32)
     - [Link(s) to work](#links-to-work-21)
-  - [Day 39: February 12, 2017](#day-39-february-12-2017)
+  - [Day 39: February 09, 2022](#day-39-february-09-2022)
     - [Today's Progress](#todays-progress-39)
     - [Thoughts](#thoughts-33)
     - [Link(s) to work](#links-to-work-22)
-  - [Day 40: February 13, 2017](#day-40-february-13-2017)
+  - [Day 40: February 10, 2022](#day-40-february-10-2022)
     - [Today's Progress](#todays-progress-40)
     - [Thoughts](#thoughts-34)
-  - [Day 41: February 14, 2017](#day-41-february-14-2017)
+  - [Day 41: February 11, 2022](#day-41-february-11-2022)
     - [Today's Progress](#todays-progress-41)
-  - [Day 42: February 15, 2017](#day-42-february-15-2017)
+  - [Day 42: February 12, 2022](#day-42-february-12-2022)
     - [Today's Progress](#todays-progress-42)
     - [Thoughts](#thoughts-35)
-  - [Day 43: February 16, 2017](#day-43-february-16-2017)
+  - [Day 43: February 13, 2022](#day-43-february-13-2022)
     - [Today's Progress](#todays-progress-43)
     - [Thoughts](#thoughts-36)
-  - [Day 44: February 17, 2017](#day-44-february-17-2017)
+  - [Day 44: February 14, 2022](#day-44-february-14-2022)
     - [Today's Progress](#todays-progress-44)
     - [Thoughts](#thoughts-37)
     - [Link(s) to work](#links-to-work-23)
-  - [Day 45: February 18, 2017](#day-45-february-18-2017)
+  - [Day 45: February 15, 2022](#day-45-february-15-2022)
     - [Today's Progress](#todays-progress-45)
     - [Thoughts](#thoughts-38)
     - [Link(s) to work](#links-to-work-24)
-  - [Day 46: February 19, 2017](#day-46-february-19-2017)
+  - [Day 46: February 16, 2022](#day-46-february-16-2022)
     - [Today's Progress](#todays-progress-46)
     - [Thoughts](#thoughts-39)
     - [Link(s) to work](#links-to-work-25)
-  - [Day 47: February 20, 2017](#day-47-february-20-2017)
+  - [Day 47: February 17, 2022](#day-47-february-17-2022)
     - [Today's Progress](#todays-progress-47)
     - [Thoughts](#thoughts-40)
     - [Link(s) to work](#links-to-work-26)
-  - [Day 48: February 21, 2017](#day-48-february-21-2017)
+  - [Day 48: February 18, 2022](#day-48-february-18-2022)
     - [Today's Progress](#todays-progress-48)
     - [Thoughts](#thoughts-41)
     - [Link(s) to work](#links-to-work-27)
-  - [Day 49: February 22, 2017](#day-49-february-22-2017)
+  - [Day 49: February 19, 2022](#day-49-february-19-2022)
     - [Today's Progress](#todays-progress-49)
     - [Thoughts](#thoughts-42)
     - [Link(s) to work](#links-to-work-28)
-  - [Day 50: February 23, 2017](#day-50-february-23-2017)
+  - [Day 50: February 20, 2022](#day-50-february-20-2022)
     - [Today's Progress](#todays-progress-50)
     - [Link(s) to work](#links-to-work-29)
-  - [Day 51: February 24, 2017](#day-51-february-24-2017)
+  - [Day 51: February 21, 2022](#day-51-february-21-2022)
     - [Today's Progress](#todays-progress-51)
     - [Link(s) to work](#links-to-work-30)
-  - [Day 52: February 25, 2017](#day-52-february-25-2017)
+  - [Day 52: February 22, 2022](#day-52-february-22-2022)
     - [Today's Progress](#todays-progress-52)
     - [Thoughts](#thoughts-43)
-  - [Day 53: February 26, 2017](#day-53-february-26-2017)
+  - [Day 53: February 23, 2022](#day-53-february-23-2022)
     - [Today's Progress](#todays-progress-53)
     - [Thoughts](#thoughts-44)
     - [Link(s) to work](#links-to-work-31)
-  - [Day 54: February 27, 2017](#day-54-february-27-2017)
+  - [Day 54: February 24, 2022](#day-54-february-24-2022)
     - [Today's Progress](#todays-progress-54)
-  - [Day 55: February 28, 2017](#day-55-february-28-2017)
+  - [Day 55: February 25, 2022](#day-55-february-25-2022)
     - [Today's Progress](#todays-progress-55)
     - [Thoughts](#thoughts-45)
     - [Link(s) to work](#links-to-work-32)
-  - [Day 56: March 01, 2017](#day-56-march-01-2017)
+  - [Day 56: February 26, 2022](#day-56-february-26-2022)
     - [Today's Progress](#todays-progress-56)
     - [Thoughts](#thoughts-46)
     - [Link(s) to work](#links-to-work-33)
-  - [Day 57: March 02, 2017](#day-57-march-02-2017)
+  - [Day 57: February 27, 2022](#day-57-february-27-2022)
     - [Today's Progress](#todays-progress-57)
     - [Thoughts](#thoughts-47)
     - [Link(s) to work](#links-to-work-34)
-  - [Day 58: March 03, 2017](#day-58-march-03-2017)
+  - [Day 58: February 28, 2022](#day-58-february-28-2022)
     - [Today's Progress](#todays-progress-58)
     - [Thoughts](#thoughts-48)
     - [Link(s) to work](#links-to-work-35)
-  - [Day 59: March 04, 2017](#day-59-march-04-2017)
+  - [Day 59: March 01, 2022](#day-59-march-01-2022)
     - [Today's Progress](#todays-progress-59)
     - [Link(s) to work](#links-to-work-36)
-  - [Day 60: March 05, 2017](#day-60-march-05-2017)
+  - [Day 60: March 02, 2022](#day-60-march-02-2022)
     - [Today's Progress](#todays-progress-60)
     - [Thoughts](#thoughts-49)
     - [Link(s) to work](#links-to-work-37)
-  - [Day 61: March 06, 2017](#day-61-march-06-2017)
+  - [Day 61: March 03, 2022](#day-61-march-03-2022)
     - [Today's Progress](#todays-progress-61)
     - [Link(s) to work](#links-to-work-38)
-  - [Day 61: March 07, 2017](#day-61-march-07-2017)
+  - [Day 61: March 07, 2022](#day-61-march-04-2022)
     - [Today's Progress](#todays-progress-62)
     - [Link(s) to work](#links-to-work-39)
-  - [Day 63: March 08, 2017](#day-63-march-08-2017)
+  - [Day 63: March 08, 2022](#day-63-march-08-2022)
     - [Today's Progress](#todays-progress-63)
     - [Link(s) to work](#links-to-work-40)
-  - [Day 64: March 09, 2017](#day-64-march-09-2017)
+  - [Day 64: March 09, 2022](#day-64-march-09-2022)
     - [Today's Progress](#todays-progress-64)
     - [Thoughts](#thoughts-50)
-  - [Day 65: March 13, 2017](#day-65-march-13-2017)
+  - [Day 65: March 10, 2022](#day-65-march-10-2022)
     - [Today's Progress](#todays-progress-65)
-  - [Day 66: March 14, 2017](#day-66-march-14-2017)
+  - [Day 66: March 11, 2022](#day-66-march-11-2022)
     - [Today's Progress](#todays-progress-66)
-  - [Day 67: March 15, 2017](#day-67-march-15-2017)
+  - [Day 67: March 12, 2022](#day-67-march-12-2022)
     - [Today's Progress](#todays-progress-67)
     - [Thoughts](#thoughts-51)
     - [Link(s) to work](#links-to-work-41)
-  - [Day 68: March 16, 2017](#day-68-march-16-2017)
+  - [Day 68: March 13, 2022](#day-68-march-13-2022)
     - [Today's Progress](#todays-progress-68)
-  - [Day 69: March 17, 2017](#day-69-march-17-2017)
+  - [Day 69: March 14, 2022](#day-69-march-14-2022)
     - [Today's Progress](#todays-progress-69)
-  - [Day 70: March 19, 2017](#day-70-march-19-2017)
+  - [Day 70: March 15, 2022](#day-70-march-15-2022)
     - [Today's Progress](#todays-progress-70)
-  - [Day 71: March 21, 2017](#day-71-march-21-2017)
+  - [Day 71: March 16, 2022](#day-71-march-16-2022)
     - [Today's Progress](#todays-progress-71)
-  - [Day 72: March 23, 2017](#day-72-march-23-2017)
+  - [Day 72: March 17, 2022](#day-72-march-17-2022)
     - [Today's Progress](#todays-progress-72)
-  - [Day 73: March 25, 2017](#day-73-march-25-2017)
+  - [Day 73: March 18, 2022](#day-73-march-18-2022)
     - [Today's Progress](#todays-progress-73)
     - [Thoughts](#thoughts-52)
     - [Link(s) to work](#links-to-work-42)
-  - [Day 74: April 04, 2017](#day-74-april-04-2017)
+  - [Day 74: March 19, 2022](#day-74-march-19-2022)
     - [Today's Progress](#todays-progress-74)
-  - [Day 75: April 05, 2017](#day-75-april-05-2017)
+  - [Day 75: March 20, 2022](#day-75-march-20-2022)
     - [Today's Progress](#todays-progress-75)
-  - [Day 76: April 06, 2017](#day-76-april-06-2017)
+  - [Day 76: March 21, 2022](#day-76-march-21-2022)
     - [Today's Progress](#todays-progress-76)
     - [Thoughts](#thoughts-53)
-  - [Day 77: April 07, 2017](#day-77-april-07-2017)
+  - [Day 77: March 22, 2022](#day-77-march-22-2022)
     - [Today's Progress](#todays-progress-77)
-  - [Day 78: April 09, 2017](#day-78-april-09-2017)
+  - [Day 78: March 23, 2022](#day-78-march-23-2022)
     - [Today's Progress](#todays-progress-78)
-  - [Day 79: April 10, 2017](#day-79-april-10-2017)
+  - [Day 79: March 24, 2022](#day-79-march-24-2022)
     - [Today's Progress](#todays-progress-79)
-  - [Day 80: April 11, 2017](#day-80-april-11-2017)
+  - [Day 80: March 25, 2022](#day-80-march-25-2022)
     - [Today's Progress](#todays-progress-80)
-  - [Day 81: April 12, 2017](#day-81-april-12-2017)
+  - [Day 81: March 26, 2022](#day-81-march-26-2022)
     - [Today's Progress](#todays-progress-81)
     - [Thoughts](#thoughts-54)
-  - [Day 82: April 13, 2017](#day-82-april-13-2017)
+  - [Day 82: March 27, 2022](#day-82-march-27-2022)
     - [Today's Progress](#todays-progress-82)
     - [Thoughts](#thoughts-55)
-  - [Day 83: April 14, 2017](#day-83-april-14-2017)
+  - [Day 83: March 28, 2022](#day-83-march-28-2022)
     - [Today's Progress](#todays-progress-83)
-  - [Day 84: April 16, 2017](#day-84-april-16-2017)
+  - [Day 84: March 29, 2022](#day-84-march-29-2022)
     - [Today's Progress](#todays-progress-84)
-  - [Day 85: April 18, 2017](#day-85-april-18-2017)
+  - [Day 85: March 30, 2022](#day-85-march-30-2022)
     - [Today's Progress](#todays-progress-85)
-  - [Day 86: April 19, 2017](#day-86-april-19-2017)
+  - [Day 86: March 31, 2022](#day-86-march-31-2022)
     - [Today's Progress](#todays-progress-86)
-  - [Day 87: April 20, 2017](#day-87-april-20-2017)
+  - [Day 87: April 01, 2022](#day-87-april-01-2022)
     - [Today's Progress](#todays-progress-87)
-  - [Day 88: April 24, 2017](#day-88-april-24-2017)
+  - [Day 88: April 02, 2022](#day-88-april-02-2022)
     - [Today's Progress](#todays-progress-88)
     - [Thoughts](#thoughts-56)
-  - [Day 89: April 25, 2017](#day-89-april-25-2017)
+  - [Day 89: April 03, 2022](#day-89-april-03-2022)
     - [Today's Progress](#todays-progress-89)
-  - [Day 90: April 26, 2017](#day-90-april-26-2017)
+  - [Day 90: April 04, 2022](#day-90-april-04-2022)
     - [Today's Progress](#todays-progress-90)
-  - [Day 91: April 27, 2017](#day-91-april-27-2017)
+  - [Day 91: April 05, 2022](#day-91-april-05-2022)
     - [Today's Progress](#todays-progress-91)
-  - [Day 92: April 28, 2017](#day-92-april-28-2017)
+  - [Day 92: April 06, 2022](#day-92-april-06-2022)
     - [Today's Progress](#todays-progress-92)
-  - [Day 93: May 02, 2017](#day-93-may-02-2017)
+  - [Day 93: April 07, 2022](#day-93-april-07-2022)
     - [Today's Progress](#todays-progress-93)
-  - [Day 94: May 03, 2017](#day-94-may-03-2017)
+  - [Day 94: April 08, 2022](#day-94-april-08-2022)
     - [Today's Progress](#todays-progress-94)
-  - [Day 95: May 04, 2017](#day-95-may-04-2017)
+  - [Day 95: April 09, 2022](#day-95-april-09-2022)
     - [Today's Progress](#todays-progress-95)
-  - [Day 96: May 05, 2017](#day-96-may-05-2017)
+  - [Day 96: April 10, 2022](#day-96-april-10-2022)
     - [Today's Progress](#todays-progress-96)
-  - [Day 97: May 08, 2017](#day-97-may-08-2017)
+  - [Day 97: April 11, 2022](#day-97-april-11-2022)
     - [Today's Progress](#todays-progress-97)
-  - [Day 98: May 09, 2017](#day-98-may-09-2017)
+  - [Day 98: April 12, 2022](#day-98-april-12-2022)
     - [Today's Progress](#todays-progress-98)
 
 <!-- /TOC -->
 
-## Day 00: January 03, 2017
+## Day 00: January 01, 2022
 
 ### Today's Progress
 
-Start coding with codefreecamp, reviewed Bootstrap lib.
+Started Full-Stack Roadmap on Codecademy & 100 Days of Python
 
 ### Thoughts
 
 I really struggled with layout, I need code more.
 
 
-## Day 01: January 04, 2017
+## Day 01: January 02, 2022
 
 ### Today's Progress
 
@@ -331,7 +331,7 @@ Bootstrap has done something I don't know. So if a class I'll use from Bootstrap
 1. [Tribute](http://codepen.io/xandeer/pen/bgGgBm)
 
 
-## Day 02: January 05, 2017
+## Day 02: January 03, 2022
 
 ### Today's Progress
 
@@ -342,7 +342,7 @@ Resolved 5 simple javascript algorithm problems. At the same time, I tried to us
 That 5 problems give me a chance to review the methods of `String` & `Array`.
 
 
-## Day 03: January 06, 2017
+## Day 03: January 04, 2022
 
 ### Today's Progress
 
@@ -356,7 +356,7 @@ That 5 problems give me a chance to review the methods of `String` & `Array`.
 2. When I want to use webpack to start a bootstrap project, I encountered several troubles, and then I found there's a project [bootstrap-loader](https://github.com/shakacode/bootstrap-loader), that really helped me.
 
 
-## Day 04: January 07, 2017
+## Day 04: January 05, 2022
 
 ### Today's Progress
 
@@ -369,7 +369,7 @@ That 5 problems give me a chance to review the methods of `String` & `Array`.
 2. I paid much time for layout, I think CSS is more difficult than JavaScript. So I need to do more practice on CSS.
 
 
-## Day 05: January 08, 2017
+## Day 05: January 06, 2022
 
 ### Today's Progress
 
@@ -380,7 +380,7 @@ That 5 problems give me a chance to review the methods of `String` & `Array`.
 1. When we want to diff two arrays, we could get their sum and intersection first, then remove intersection's element from sum, the rest is what we want.
 
 
-## Day 06: January 09, 2017
+## Day 06: January 07, 2022
 
 ### Today's Progress
 
@@ -398,7 +398,7 @@ That 5 problems give me a chance to review the methods of `String` & `Array`.
 1. [Convert to Roman](/basic-algorithm/convert-to-roman.js)
 
 
-## Day 07: January 10, 2017
+## Day 07: January 8, 2022
 
 ### Today's Progress
 
@@ -410,7 +410,7 @@ That 5 problems give me a chance to review the methods of `String` & `Array`.
 1. `string` can't be changed, so all the change on it will return a new `string`.
 
 
-## Day 08: January 11, 2017
+## Day 08: January 9, 2022
 
 ### Today's Progress
 
@@ -422,7 +422,7 @@ That 5 problems give me a chance to review the methods of `String` & `Array`.
 1. When I use `new Date() - 0` in `window.requestAnimationFrame`'s renderLoop, if I leave the page, the time will accumulate.
 
 
-## Day 09: January 12, 2017
+## Day 09: January 10, 2022
 
 ### Today's Progress
 
@@ -444,7 +444,7 @@ That 5 problems give me a chance to review the methods of `String` & `Array`.
 1. Cannot resolve module `webpack-dev-server/client`. I installed it locally, then it fixed.
 
 
-## Day 10: January 13, 2017
+## Day 10: January 11, 2022
 
 ### Today's Progress
 
@@ -459,7 +459,7 @@ That 5 problems give me a chance to review the methods of `String` & `Array`.
 3. I paid much time to deploy FlappyBird to github pages. It's worth to do it. Since then, I could deploy projects to github pages quickly.
 
 
-## Day 11: January 14, 2017
+## Day 11: January 12, 2022
 
 ### Today's Progress
 
@@ -473,7 +473,7 @@ That 5 problems give me a chance to review the methods of `String` & `Array`.
 2. If the results have contained an object, I should use `chai-json-equal` to assert them.
 
 
-## Day 12: January 15, 2017
+## Day 12: January 13, 2022
 
 ### Today's Progress
 
@@ -491,7 +491,7 @@ That 5 problems give me a chance to review the methods of `String` & `Array`.
 1. [Xandeer's Portfolio](http://xandeer.me/100-days-of-code/portfolio)
 
 
-## Day 13: January 16, 2017
+## Day 13: January 14, 2022
 
 ### Today's Progress
 
@@ -507,7 +507,7 @@ That 5 problems give me a chance to review the methods of `String` & `Array`.
 then add the unusual situation.
 
 
-## Day 14: January 17, 2017
+## Day 14: January 15, 2022
 
 ### Today's Progress
 
@@ -527,7 +527,7 @@ then add the unusual situation.
 3. [Random Quote](http://xandeer.me/100-days-of-code/random-quote)
 
 
-## Day 15: January 18, 2017
+## Day 15: January 15, 2022
 
 ### Today's Progress
 
@@ -545,7 +545,7 @@ then add the unusual situation.
 2. [Random Quote](http://xandeer.me/100-days-of-code/random-quote)
 
 
-## Day 16: January 19, 2017
+## Day 16: January 16, 2022
 
 ### Today's Progress
 
@@ -558,7 +558,7 @@ then add the unusual situation.
 ### Link(s) to work
 
 
-## Day 17: January 20, 2017
+## Day 17: January 17, 2022
 
 ### Today's Progress
 
@@ -572,7 +572,7 @@ then add the unusual situation.
 1. [Weather](http://xandeer.me/100-days-of-code/weather)
 
 
-## Day 18: January 21, 2017
+## Day 18: January 18, 2022
 
 ### Today's Progress
 
@@ -587,7 +587,7 @@ then add the unusual situation.
 1. [Weather](http://xandeer.me/100-days-of-code/weather)
 
 
-## Day 19: January 22, 2017
+## Day 19: January 19 2022
 
 ### Today's Progress
 
@@ -602,7 +602,7 @@ then add the unusual situation.
 1. [Orbital Period](basic-algorithm/orbital-period.js)
 
 
-## Day 20: January 23, 2017
+## Day 20: January 20, 2022
 
 ### Today's Progress
 
@@ -617,7 +617,7 @@ then add the unusual situation.
 1. [Wikipedia Viewer](http://xandeer.me/100-days-of-code/wikipedia-viewer)
 
 
-## Day 21: January 24, 2017
+## Day 21: January 21, 2022
 
 ### Today's Progress
 
@@ -633,7 +633,7 @@ then add the unusual situation.
 1. [Pairwise](basic-algorithm/pairwise.js)
 
 
-## Day 22: January 25, 2017
+## Day 22: January 22, 2022
 
 ### Today's Progress
 
@@ -648,7 +648,7 @@ then add the unusual situation.
 1. [Make Friendly Dates](basic-algorithm/make-friendly-dates.js)
 
 
-## Day 23: January 26, 2017
+## Day 23: January 23, 2022
 
 ### Today's Progress
 
@@ -661,7 +661,7 @@ then add the unusual situation.
 ### Link(s) to work
 
 
-## Day 24: January 27, 2017
+## Day 24: January 24, 2022
 
 ### Today's Progress
 
@@ -675,7 +675,7 @@ then add the unusual situation.
 ### Link(s) to work
 
 
-## Day 25: January 28, 2017
+## Day 25: January 25, 2022
 
 ### Today's Progress
 
@@ -690,49 +690,75 @@ then add the unusual situation.
 1. [Twitch](http://xandeer.me/100-days-of-code/twitch)
 
 
-## Day 26: January 29, 2017
+## Day 26: January 26, 2022
 
 ### Today's Progress
 
 1. Fix the twitch's dependencies.
 
 
-## Day 27: January 31, 2017
+## Day 27: January 27, 2022
 
 ### Today's Progress
 
 1. Read Vue's introduction and Vue instance.
 
 
-## Day 28: February 01, 2017
+## Day 28: January 28, 2022
+
+### Today's Progress
+
+1. Read Vue template syntax, computed properties and watchers, class and style bindings.
+
+## Day 29 January 29, 2022
+
+### Today's Progress
+
+1. Read Vue's introduction and Vue instance.
+
+
+## Day 30: January 30, 2022
+
+### Today's Progress
+
+1. Read Vue template syntax, computed properties and watchers, class and style bindings.
+
+## Day 31: January 31, 2022
+
+### Today's Progress
+
+1. Read Vue's introduction and Vue instance.
+
+
+## Day 32: February 01, 2022
 
 ### Today's Progress
 
 1. Read Vue template syntax, computed properties and watchers, class and style bindings.
 
 
-## Day 29: February 02, 2017
+## Day 33: February 02, 2022
 
 ### Today's Progress
 
 1. Read Vue conditional rendering, list rendering, event handling and form input bindings.
 
 
-## Day 30: February 03, 2017
+## Day 34: February 03, 2022
 
 ### Today's Progress
 
 1. Read Vue components.
 
 
-## Day 31: February 04, 2017
+## Day 35: February 04, 2022
 
 ### Today's Progress
 
 1. Read Vue reactivity in depth.
 
 
-## Day 32: February 05, 2017
+## Day 36: February 05, 2022
 
 ### Today's Progress
 
@@ -747,7 +773,7 @@ then add the unusual situation.
 1. [calculator](calculator)
 
 
-## Day 33: February 06, 2017
+## Day 37: February 06, 2022
 
 ### Today's Progress
 
@@ -763,7 +789,7 @@ then add the unusual situation.
 1. [calculator](http://xandeer.me/100-days-of-code/calculator)
 
 
-## Day 34: February 07, 2017
+## Day 38: February 07, 2022
 
 ### Today's Progress
 
@@ -779,7 +805,7 @@ then add the unusual situation.
 1. [pomodoro clock](http://xandeer.me/100-days-of-code/pomodoro)
 
 
-## Day 35: February 08, 2017
+## Day 39: February 08, 2022
 
 ### Today's Progress
 
@@ -794,7 +820,7 @@ then add the unusual situation.
 1. [Tic Tac Toe](tic-tac-toe)
 
 
-## Day 36: February 09, 2017
+## Day 40: February 09, 2022
 
 ### Today's Progress
 
@@ -810,7 +836,7 @@ then add the unusual situation.
 1. [Tic Tac Toe](http://xandeer.me/100-days-of-code/tic-tac-toe)
 
 
-## Day 37: February 10, 2017
+## Day 41: February 10, 2022
 
 ### Today's Progress
 
@@ -826,7 +852,7 @@ then add the unusual situation.
 1. [Vue Template for Webpack](https://github.com/xandeer/webpack)
 
 
-## Day 38: February 11, 2017
+## Day 42: February 11, 2022
 
 ### Today's Progress
 
@@ -842,7 +868,7 @@ then add the unusual situation.
 1. [Simon](simon)
 
 
-## Day 39: February 12, 2017
+## Day 43: February 12, 2022
 
 ### Today's Progress
 
@@ -857,7 +883,7 @@ then add the unusual situation.
 1. [Simon Game](http://xandeer.me/100-days-of-code/simon)
 
 
-## Day 40: February 13, 2017
+## Day 44: February 13, 2022
 
 ### Today's Progress
 
@@ -868,14 +894,14 @@ then add the unusual situation.
 1. Get good free api is difficult, and it will waste much time.
 
 
-## Day 41: February 14, 2017
+## Day 45: February 14, 2022
 
 ### Today's Progress
 
 1. Start gank.io, finish contents list.
 
 
-## Day 42: February 15, 2017
+## Day 46: February 15, 2022
 
 ### Today's Progress
 
@@ -886,7 +912,7 @@ then add the unusual situation.
 1. Vue is really a good framework.
 
 
-## Day 43: February 16, 2017
+## Day 47: February 16, 2022
 
 ### Today's Progress
 
@@ -897,7 +923,7 @@ then add the unusual situation.
 1. Before do it, I should design it at first.
 
 
-## Day 44: February 17, 2017
+## Day 48: February 17, 2022
 
 ### Today's Progress
 
@@ -914,7 +940,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](http://xandeer.me/gank)
 
 
-## Day 45: February 18, 2017
+## Day 49: February 18, 2022
 
 ### Today's Progress
 
@@ -932,7 +958,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](http://xandeer.me/gank)
 
 
-## Day 46: February 19, 2017
+## Day 50: February 19, 2022
 
 ### Today's Progress
 
@@ -947,7 +973,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](http://xandeer.me/gank)
 
 
-## Day 47: February 20, 2017
+## Day 47: February 20, 2022
 
 ### Today's Progress
 
@@ -963,7 +989,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](http://xandeer.me/gank)
 
 
-## Day 48: February 21, 2017
+## Day 48: February 21, 2022
 
 ### Today's Progress
 
@@ -981,7 +1007,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](http://xandeer.me/gank)
 
 
-## Day 49: February 22, 2017
+## Day 49: February 22, 2022
 
 ### Today's Progress
 
@@ -996,7 +1022,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](http://xandeer.me/gank)
 
 
-## Day 50: February 23, 2017
+## Day 50: February 23, 2022
 
 ### Today's Progress
 
@@ -1007,7 +1033,7 @@ then practice the features that I may use. Read -> Try
 1. [Resume](http://xandeer.me/resume)
 
 
-## Day 51: February 24, 2017
+## Day 51: February 24, 2022
 
 ### Today's Progress
 
@@ -1018,7 +1044,7 @@ then practice the features that I may use. Read -> Try
 1. [Resume](http://xandeer.me/resume)
 
 
-## Day 52: February 25, 2017
+## Day 52: February 25, 2022
 
 ### Today's Progress
 
@@ -1029,7 +1055,7 @@ then practice the features that I may use. Read -> Try
 1. VSCode is a nice editor.
 
 
-## Day 53: February 26, 2017
+## Day 53: February 26, 2022
 
 ### Today's Progress
 
@@ -1044,7 +1070,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](http://xandeer.me/gank)
 
 
-## Day 54: February 27, 2017
+## Day 54: February 27, 2022
 
 ### Today's Progress
 
@@ -1052,7 +1078,7 @@ then practice the features that I may use. Read -> Try
 2. Read some front-end articles.
 
 
-## Day 55: February 28, 2017
+## Day 55: February 28, 2022
 
 ### Today's Progress
 
@@ -1070,7 +1096,7 @@ then practice the features that I may use. Read -> Try
 2. [vue-circle-choice](https://github.com/xandeer/vue-circle-choice)
 
 
-## Day 56: March 01, 2017
+## Day 56: March 01, 2022
 
 ### Today's Progress
 
@@ -1086,7 +1112,7 @@ then practice the features that I may use. Read -> Try
 1. [vue-circle-choice](https://github.com/xandeer/vue-circle-choice)
 
 
-## Day 57: March 02, 2017
+## Day 57: March 02, 2022
 
 ### Today's Progress
 
@@ -1102,7 +1128,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](http://xandeer.me/gank)
 
 
-## Day 58: March 03, 2017
+## Day 58: March 03, 2022
 
 ### Today's Progress
 
@@ -1117,7 +1143,7 @@ then practice the features that I may use. Read -> Try
 1. [Circulr-Nav](https://github.com/xandeer/vue-circle-choice)
 
 
-## Day 59: March 04, 2017
+## Day 59: March 04, 2022
 
 ### Today's Progress
 
@@ -1128,7 +1154,7 @@ then practice the features that I may use. Read -> Try
 1. [Circulr-Nav](https://github.com/xandeer/vue-circle-choice)
 
 
-## Day 60: March 05, 2017
+## Day 60: March 05, 2022
 
 ### Today's Progress
 
@@ -1144,7 +1170,7 @@ then practice the features that I may use. Read -> Try
 1. [Circulr-Nav](https://github.com/xandeer/vue-circle-choice)
 
 
-## Day 61: March 06, 2017
+## Day 61: March 06, 2022
 
 ### Today's Progress
 
@@ -1155,7 +1181,7 @@ then practice the features that I may use. Read -> Try
 1. [Resume](https://github.com/xandeer/resume)
 
 
-## Day 61: March 07, 2017
+## Day 61: March 07, 2022
 
 ### Today's Progress
 
@@ -1166,7 +1192,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](https://github.com/xandeer/gank)
 
 
-## Day 63: March 08, 2017
+## Day 63: March 08, 2022
 
 ### Today's Progress
 
@@ -1180,7 +1206,7 @@ then practice the features that I may use. Read -> Try
 2. [Gank.io](https://github.com/xandeer/gank)
 
 
-## Day 64: March 09, 2017
+## Day 64: March 09, 2022
 
 ### Today's Progress
 
@@ -1192,7 +1218,7 @@ then practice the features that I may use. Read -> Try
 1. Compatible problems are awful, they always took me much time.
 
 
-## Day 65: March 13, 2017
+## Day 65: March 13, 2022
 
 ### Today's Progress
 
@@ -1209,7 +1235,7 @@ then practice the features that I may use. Read -> Try
 2. Look for NeteaseMusic API.
 
 
-## Day 67: March 15, 2017
+## Day 67: March 15, 2022
 
 ### Today's Progress
 
@@ -1224,42 +1250,42 @@ then practice the features that I may use. Read -> Try
 1. [react-demo](https://github.com/xandeer/react-demo)
 
 
-## Day 68: March 16, 2017
+## Day 68: March 16, 2022
 
 ### Today's Progress
 
 1. Read some articles about browers' compatibilities.
 
 
-## Day 69: March 17, 2017
+## Day 69: March 17, 2022
 
 ### Today's Progress
 
 1. Review object and prototype.
 
 
-## Day 70: March 19, 2017
+## Day 70: March 19, 2022
 
 ### Today's Progress
 
 1. Read yarn documents, then try it.
 
 
-## Day 71: March 21, 2017
+## Day 71: March 21, 2022
 
 ### Today's Progress
 
 1. Read the codes of axios.
 
 
-## Day 72: March 23, 2017
+## Day 72: March 23, 2022
 
 ### Today's Progress
 
 1. Try to use chartjs.
 
 
-## Day 73: March 25, 2017
+## Day 73: March 25, 2022
 
 ### Today's Progress
 
@@ -1274,14 +1300,14 @@ then practice the features that I may use. Read -> Try
 1. [echarts-demo](https://github.com/xandeer/echarts-demo)
 
 
-## Day 74: April 04, 2017
+## Day 74: March 26, 2022
 
 ### Today's Progress
 
 1. Read Framework7's documents.
 
 
-## Day 75: April 05, 2017
+## Day 75: March 27, 2022
 
 ### Today's Progress
 
@@ -1289,7 +1315,7 @@ then practice the features that I may use. Read -> Try
 2. Start writing code for work.
 
 
-## Day 76: April 06, 2017
+## Day 76: March 28, 2022
 
 ### Today's Progress
 
@@ -1300,21 +1326,21 @@ then practice the features that I may use. Read -> Try
 1. Find the real problem in JavaScript library is easier than some other languages.
 
 
-## Day 77: April 07, 2017
+## Day 77: March 29, 2022
 
 ### Today's Progress
 
 1. Finish signin and signup page.
 
 
-## Day 78: April 09, 2017
+## Day 78: March 30, 2022
 
 ### Today's Progress
 
 1. Read Cordova's documents and f7-vue-webpack-template's hooks.
 
 
-## Day 79: April 10, 2017
+## Day 79: March 31, 2022
 
 ### Today's Progress
 
@@ -1322,7 +1348,7 @@ then practice the features that I may use. Read -> Try
 2. Try to use keychain.
 
 
-## Day 80: April 11, 2017
+## Day 80: April 1, 2022
 
 ### Today's Progress
 
@@ -1330,7 +1356,7 @@ then practice the features that I may use. Read -> Try
 2. Scan the f7-vue-webpack-template's dev settings.
 
 
-## Day 81: April 12, 2017
+## Day 81: April 2, 2022
 
 ### Today's Progress
 
@@ -1342,7 +1368,7 @@ then practice the features that I may use. Read -> Try
 1. Have to read the original documents. After that, if problem hasn't been resolved, I'll need to find the source codes.
 
 
-## Day 82: April 13, 2017
+## Day 82: April 3, 2022
 
 ### Today's Progress
 
@@ -1354,21 +1380,21 @@ then practice the features that I may use. Read -> Try
 1. I've learned a lot about colleagues.
 
 
-## Day 83: April 14, 2017
+## Day 83: April 4, 2022
 
 ### Today's Progress
 
 1. Use vue's mixin to optimize the code.
 
 
-## Day 84: April 16, 2017
+## Day 84: April 5, 2022
 
 ### Today's Progress
 
 1. Read webpack's core concepts.
 
 
-## Day 85: April 18, 2017
+## Day 85: April 5, 2022
 
 ### Today's Progress
 
@@ -1376,21 +1402,21 @@ then practice the features that I may use. Read -> Try
 2. Read the webpack settings from vue-cli.
 
 
-## Day 86: April 19, 2017
+## Day 86: April 6, 2022
 
 ### Today's Progress
 
 1. Modify cordova template framework7 vue webpack setting.
 
 
-## Day 87: April 20, 2017
+## Day 87: April 7, 2022
 
 ### Today's Progress
 
 1. Do some F7 page settings.
 
 
-## Day 88: April 24, 2017
+## Day 88: April 8, 2022
 
 ### Today's Progress
 
@@ -1401,21 +1427,21 @@ then practice the features that I may use. Read -> Try
 1. Think more times about what to do.
 
 
-## Day 89: April 25, 2017
+## Day 89: April 9, 2022
 
 ### Today's Progress
 
 1. Finish the most of settings page.
 
 
-## Day 90: April 26, 2017
+## Day 90: April 10, 2022
 
 ### Today's Progress
 
 1. Finish idea lists page.
 
 
-## Day 91: April 27, 2017
+## Day 91: April 11, 2022
 
 ### Today's Progress
 
@@ -1423,7 +1449,7 @@ then practice the features that I may use. Read -> Try
 2. Start idea detail page.
 
 
-## Day 92: April 28, 2017
+## Day 92: April 12, 2022
 
 ### Today's Progress
 
@@ -1431,21 +1457,21 @@ then practice the features that I may use. Read -> Try
 2. Add comment popup.
 
 
-## Day 93: May 02, 2017
+## Day 93: April 13, 2022
 
 ### Today's Progress
 
 1. Add comment and idea popup by a same component.
 
 
-## Day 94: May 03, 2017
+## Day 94: April 14, 2022
 
 ### Today's Progress
 
 1. Fix a problem about navbar's align.
 
 
-## Day 95: May 04, 2017
+## Day 95: April 15, 2022
 
 ### Today's Progress
 
@@ -1453,28 +1479,35 @@ then practice the features that I may use. Read -> Try
 2. Add preload animations for ideas.
 
 
-## Day 96: May 05, 2017
+## Day 96: April 16, 2022
 
 ### Today's Progress
 
 1. Fix some bugs.
 
 
-## Day 97: May 08, 2017
+## Day 97: April 17, 2022
 
 ### Today's Progress
 
 1. Use cordova-plugin-file to get logs.
 
 
-## Day 98: May 09, 2017
+## Day 98: April 18, 2022
 
 ### Today's Progress
 
 1. Use file plugin to store data.
 
 
-## Day 99: May 10, 2017
+## Day 99: April 19, 2022
+
+### Today's Progress
+
+1. Customize statusbar.
+2. Modify add card's view.
+
+## Day 100: April 20, 2022
 
 ### Today's Progress
 
