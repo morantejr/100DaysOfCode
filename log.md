@@ -302,7 +302,10 @@
     - [Today's Progress](#todays-progress-97)
   - [Day 98: April 12, 2022](#day-98-april-12-2022)
     - [Today's Progress](#todays-progress-98)
-
+  - [Day 99: April 13, 2022](#day-98-april-13-2022)
+    - [Today's Progress](#todays-progress-99)
+  - [Day 100: April 14, 2022](#day-98-april-14-2022)
+    - [Today's Progress](#todays-progress-100)
 <!-- /TOC -->
 
 ## Day 00: January 01, 2022
@@ -313,33 +316,33 @@ Started Full-Stack Roadmap on Codecademy & 100 Days of Python
 
 ### Thoughts
 
-I really struggled with layout, I need code more.
+
 
 
 ## Day 01: January 02, 2022
 
 ### Today's Progress
 
-Finished the first project with Bootstrap on codefreecamp, and resolved two simple javascript algorithm problems.
+
 
 ### Thoughts
 
-Bootstrap has done something I don't know. So if a class I'll use from Bootstrap, I'd look at how it implements.
+
 
 ### Link(s) to work
 
-1. [Tribute](http://codepen.io/xandeer/pen/bgGgBm)
+1. 
 
 
 ## Day 02: January 03, 2022
 
 ### Today's Progress
 
-Resolved 5 simple javascript algorithm problems. At the same time, I tried to use `mocha` & `chai` to test my scripts.
+
 
 ### Thoughts
 
-That 5 problems give me a chance to review the methods of `String` & `Array`.
+
 
 
 ## Day 03: January 04, 2022
@@ -398,7 +401,7 @@ That 5 problems give me a chance to review the methods of `String` & `Array`.
 1. [Convert to Roman](/basic-algorithm/convert-to-roman.js)
 
 
-## Day 07: January 8, 2022
+## Day 07: January 08, 2022
 
 ### Today's Progress
 
@@ -410,7 +413,7 @@ That 5 problems give me a chance to review the methods of `String` & `Array`.
 1. `string` can't be changed, so all the change on it will return a new `string`.
 
 
-## Day 08: January 9, 2022
+## Day 08: January 09, 2022
 
 ### Today's Progress
 
@@ -527,7 +530,7 @@ then add the unusual situation.
 3. [Random Quote](http://xandeer.me/100-days-of-code/random-quote)
 
 
-## Day 15: January 15, 2022
+## Day 15: January 16, 2022
 
 ### Today's Progress
 
@@ -545,7 +548,7 @@ then add the unusual situation.
 2. [Random Quote](http://xandeer.me/100-days-of-code/random-quote)
 
 
-## Day 16: January 16, 2022
+## Day 16: January 17, 2022
 
 ### Today's Progress
 
@@ -558,7 +561,7 @@ then add the unusual situation.
 ### Link(s) to work
 
 
-## Day 17: January 17, 2022
+## Day 17: January 18, 2022
 
 ### Today's Progress
 
@@ -572,7 +575,7 @@ then add the unusual situation.
 1. [Weather](http://xandeer.me/100-days-of-code/weather)
 
 
-## Day 18: January 18, 2022
+## Day 18: January 19, 2022
 
 ### Today's Progress
 
@@ -587,7 +590,7 @@ then add the unusual situation.
 1. [Weather](http://xandeer.me/100-days-of-code/weather)
 
 
-## Day 19: January 19 2022
+## Day 19: January 20, 2022
 
 ### Today's Progress
 
@@ -602,7 +605,7 @@ then add the unusual situation.
 1. [Orbital Period](basic-algorithm/orbital-period.js)
 
 
-## Day 20: January 20, 2022
+## Day 20: January 21, 2022
 
 ### Today's Progress
 
@@ -617,7 +620,7 @@ then add the unusual situation.
 1. [Wikipedia Viewer](http://xandeer.me/100-days-of-code/wikipedia-viewer)
 
 
-## Day 21: January 21, 2022
+## Day 21: January 22, 2022
 
 ### Today's Progress
 
@@ -633,7 +636,7 @@ then add the unusual situation.
 1. [Pairwise](basic-algorithm/pairwise.js)
 
 
-## Day 22: January 22, 2022
+## Day 22: January 23, 2022
 
 ### Today's Progress
 
@@ -648,7 +651,7 @@ then add the unusual situation.
 1. [Make Friendly Dates](basic-algorithm/make-friendly-dates.js)
 
 
-## Day 23: January 23, 2022
+## Day 23: January 24, 2022
 
 ### Today's Progress
 
@@ -661,7 +664,7 @@ then add the unusual situation.
 ### Link(s) to work
 
 
-## Day 24: January 24, 2022
+## Day 24: January 25, 2022
 
 ### Today's Progress
 
@@ -675,7 +678,7 @@ then add the unusual situation.
 ### Link(s) to work
 
 
-## Day 25: January 25, 2022
+## Day 25: January 26, 2022
 
 ### Today's Progress
 
@@ -690,75 +693,75 @@ then add the unusual situation.
 1. [Twitch](http://xandeer.me/100-days-of-code/twitch)
 
 
-## Day 26: January 26, 2022
+## Day 26: January 27, 2022
 
 ### Today's Progress
 
 1. Fix the twitch's dependencies.
 
 
-## Day 27: January 27, 2022
+## Day 27: January 28, 2022
 
 ### Today's Progress
 
 1. Read Vue's introduction and Vue instance.
 
 
-## Day 28: January 28, 2022
+## Day 28: January 29, 2022
 
 ### Today's Progress
 
 1. Read Vue template syntax, computed properties and watchers, class and style bindings.
 
-## Day 29 January 29, 2022
+## Day 29 January 30, 2022
 
 ### Today's Progress
 
 1. Read Vue's introduction and Vue instance.
 
 
-## Day 30: January 30, 2022
+## Day 30: January 31, 2022
 
 ### Today's Progress
 
 1. Read Vue template syntax, computed properties and watchers, class and style bindings.
 
-## Day 31: January 31, 2022
+## Day 31: February 01, 2022
 
 ### Today's Progress
 
 1. Read Vue's introduction and Vue instance.
 
 
-## Day 32: February 01, 2022
+## Day 32: February 02, 2022
 
 ### Today's Progress
 
 1. Read Vue template syntax, computed properties and watchers, class and style bindings.
 
 
-## Day 33: February 02, 2022
+## Day 33: February 03, 2022
 
 ### Today's Progress
 
 1. Read Vue conditional rendering, list rendering, event handling and form input bindings.
 
 
-## Day 34: February 03, 2022
+## Day 34: February 04, 2022
 
 ### Today's Progress
 
 1. Read Vue components.
 
 
-## Day 35: February 04, 2022
+## Day 35: February 05, 2022
 
 ### Today's Progress
 
 1. Read Vue reactivity in depth.
 
 
-## Day 36: February 05, 2022
+## Day 36: February 06, 2022
 
 ### Today's Progress
 
@@ -773,7 +776,7 @@ then add the unusual situation.
 1. [calculator](calculator)
 
 
-## Day 37: February 06, 2022
+## Day 37: February 07, 2022
 
 ### Today's Progress
 
@@ -789,7 +792,7 @@ then add the unusual situation.
 1. [calculator](http://xandeer.me/100-days-of-code/calculator)
 
 
-## Day 38: February 07, 2022
+## Day 38: February 08, 2022
 
 ### Today's Progress
 
@@ -805,7 +808,7 @@ then add the unusual situation.
 1. [pomodoro clock](http://xandeer.me/100-days-of-code/pomodoro)
 
 
-## Day 39: February 08, 2022
+## Day 39: February 09, 2022
 
 ### Today's Progress
 
@@ -820,7 +823,7 @@ then add the unusual situation.
 1. [Tic Tac Toe](tic-tac-toe)
 
 
-## Day 40: February 09, 2022
+## Day 40: February 10, 2022
 
 ### Today's Progress
 
@@ -836,7 +839,7 @@ then add the unusual situation.
 1. [Tic Tac Toe](http://xandeer.me/100-days-of-code/tic-tac-toe)
 
 
-## Day 41: February 10, 2022
+## Day 41: February 11, 2022
 
 ### Today's Progress
 
@@ -852,7 +855,7 @@ then add the unusual situation.
 1. [Vue Template for Webpack](https://github.com/xandeer/webpack)
 
 
-## Day 42: February 11, 2022
+## Day 42: February 12, 2022
 
 ### Today's Progress
 
@@ -868,7 +871,7 @@ then add the unusual situation.
 1. [Simon](simon)
 
 
-## Day 43: February 12, 2022
+## Day 43: February 13, 2022
 
 ### Today's Progress
 
@@ -883,7 +886,7 @@ then add the unusual situation.
 1. [Simon Game](http://xandeer.me/100-days-of-code/simon)
 
 
-## Day 44: February 13, 2022
+## Day 44: February 14, 2022
 
 ### Today's Progress
 
@@ -894,14 +897,14 @@ then add the unusual situation.
 1. Get good free api is difficult, and it will waste much time.
 
 
-## Day 45: February 14, 2022
+## Day 45: February 15, 2022
 
 ### Today's Progress
 
 1. Start gank.io, finish contents list.
 
 
-## Day 46: February 15, 2022
+## Day 46: February 16, 2022
 
 ### Today's Progress
 
@@ -912,7 +915,7 @@ then add the unusual situation.
 1. Vue is really a good framework.
 
 
-## Day 47: February 16, 2022
+## Day 47: February 17, 2022
 
 ### Today's Progress
 
@@ -923,7 +926,7 @@ then add the unusual situation.
 1. Before do it, I should design it at first.
 
 
-## Day 48: February 17, 2022
+## Day 48: February 18, 2022
 
 ### Today's Progress
 
@@ -940,7 +943,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](http://xandeer.me/gank)
 
 
-## Day 49: February 18, 2022
+## Day 49: February 19, 2022
 
 ### Today's Progress
 
@@ -958,7 +961,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](http://xandeer.me/gank)
 
 
-## Day 50: February 19, 2022
+## Day 50: February 20, 2022
 
 ### Today's Progress
 
@@ -973,7 +976,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](http://xandeer.me/gank)
 
 
-## Day 47: February 20, 2022
+## Day 47: February 21, 2022
 
 ### Today's Progress
 
@@ -989,7 +992,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](http://xandeer.me/gank)
 
 
-## Day 48: February 21, 2022
+## Day 48: February 22, 2022
 
 ### Today's Progress
 
@@ -1007,7 +1010,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](http://xandeer.me/gank)
 
 
-## Day 49: February 22, 2022
+## Day 49: February 23, 2022
 
 ### Today's Progress
 
@@ -1022,7 +1025,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](http://xandeer.me/gank)
 
 
-## Day 50: February 23, 2022
+## Day 50: February 24, 2022
 
 ### Today's Progress
 
@@ -1033,7 +1036,7 @@ then practice the features that I may use. Read -> Try
 1. [Resume](http://xandeer.me/resume)
 
 
-## Day 51: February 24, 2022
+## Day 51: February 25, 2022
 
 ### Today's Progress
 
@@ -1044,7 +1047,7 @@ then practice the features that I may use. Read -> Try
 1. [Resume](http://xandeer.me/resume)
 
 
-## Day 52: February 25, 2022
+## Day 52: February 26, 2022
 
 ### Today's Progress
 
@@ -1055,7 +1058,7 @@ then practice the features that I may use. Read -> Try
 1. VSCode is a nice editor.
 
 
-## Day 53: February 26, 2022
+## Day 53: February 27, 2022
 
 ### Today's Progress
 
@@ -1070,7 +1073,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](http://xandeer.me/gank)
 
 
-## Day 54: February 27, 2022
+## Day 54: February 28, 2022
 
 ### Today's Progress
 
@@ -1078,7 +1081,7 @@ then practice the features that I may use. Read -> Try
 2. Read some front-end articles.
 
 
-## Day 55: February 28, 2022
+## Day 55: March 01, 2022
 
 ### Today's Progress
 
@@ -1096,7 +1099,7 @@ then practice the features that I may use. Read -> Try
 2. [vue-circle-choice](https://github.com/xandeer/vue-circle-choice)
 
 
-## Day 56: March 01, 2022
+## Day 56: March 02, 2022
 
 ### Today's Progress
 
@@ -1112,7 +1115,7 @@ then practice the features that I may use. Read -> Try
 1. [vue-circle-choice](https://github.com/xandeer/vue-circle-choice)
 
 
-## Day 57: March 02, 2022
+## Day 57: March 03, 2022
 
 ### Today's Progress
 
@@ -1128,7 +1131,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](http://xandeer.me/gank)
 
 
-## Day 58: March 03, 2022
+## Day 58: March 04, 2022
 
 ### Today's Progress
 
@@ -1143,7 +1146,7 @@ then practice the features that I may use. Read -> Try
 1. [Circulr-Nav](https://github.com/xandeer/vue-circle-choice)
 
 
-## Day 59: March 04, 2022
+## Day 59: March 05, 2022
 
 ### Today's Progress
 
@@ -1154,7 +1157,7 @@ then practice the features that I may use. Read -> Try
 1. [Circulr-Nav](https://github.com/xandeer/vue-circle-choice)
 
 
-## Day 60: March 05, 2022
+## Day 60: March 06, 2022
 
 ### Today's Progress
 
@@ -1170,7 +1173,7 @@ then practice the features that I may use. Read -> Try
 1. [Circulr-Nav](https://github.com/xandeer/vue-circle-choice)
 
 
-## Day 61: March 06, 2022
+## Day 61: March 07, 2022
 
 ### Today's Progress
 
@@ -1181,7 +1184,7 @@ then practice the features that I may use. Read -> Try
 1. [Resume](https://github.com/xandeer/resume)
 
 
-## Day 61: March 07, 2022
+## Day 61: March 08, 2022
 
 ### Today's Progress
 
@@ -1192,7 +1195,7 @@ then practice the features that I may use. Read -> Try
 1. [Gank.io](https://github.com/xandeer/gank)
 
 
-## Day 63: March 08, 2022
+## Day 63: March 09, 2022
 
 ### Today's Progress
 
@@ -1206,7 +1209,7 @@ then practice the features that I may use. Read -> Try
 2. [Gank.io](https://github.com/xandeer/gank)
 
 
-## Day 64: March 09, 2022
+## Day 64: March 10, 2022
 
 ### Today's Progress
 
@@ -1218,7 +1221,7 @@ then practice the features that I may use. Read -> Try
 1. Compatible problems are awful, they always took me much time.
 
 
-## Day 65: March 13, 2022
+## Day 65: March 11, 2022
 
 ### Today's Progress
 
@@ -1227,7 +1230,7 @@ then practice the features that I may use. Read -> Try
 3. Read weex's documents, then drop it now.
 
 
-## Day 66: March 14, 2017
+## Day 66: March 12, 2022
 
 ### Today's Progress
 
@@ -1235,7 +1238,7 @@ then practice the features that I may use. Read -> Try
 2. Look for NeteaseMusic API.
 
 
-## Day 67: March 15, 2022
+## Day 67: March 13, 2022
 
 ### Today's Progress
 
@@ -1250,42 +1253,42 @@ then practice the features that I may use. Read -> Try
 1. [react-demo](https://github.com/xandeer/react-demo)
 
 
-## Day 68: March 16, 2022
+## Day 68: March 14, 2022
 
 ### Today's Progress
 
 1. Read some articles about browers' compatibilities.
 
 
-## Day 69: March 17, 2022
+## Day 69: March 15, 2022
 
 ### Today's Progress
 
 1. Review object and prototype.
 
 
-## Day 70: March 19, 2022
+## Day 70: March 16, 2022
 
 ### Today's Progress
 
 1. Read yarn documents, then try it.
 
 
-## Day 71: March 21, 2022
+## Day 71: March 17, 2022
 
 ### Today's Progress
 
 1. Read the codes of axios.
 
 
-## Day 72: March 23, 2022
+## Day 72: March 18, 2022
 
 ### Today's Progress
 
 1. Try to use chartjs.
 
 
-## Day 73: March 25, 2022
+## Day 73: March 19, 2022
 
 ### Today's Progress
 
@@ -1300,14 +1303,14 @@ then practice the features that I may use. Read -> Try
 1. [echarts-demo](https://github.com/xandeer/echarts-demo)
 
 
-## Day 74: March 26, 2022
+## Day 74: March 20, 2022
 
 ### Today's Progress
 
 1. Read Framework7's documents.
 
 
-## Day 75: March 27, 2022
+## Day 75: March 21, 2022
 
 ### Today's Progress
 
@@ -1315,7 +1318,7 @@ then practice the features that I may use. Read -> Try
 2. Start writing code for work.
 
 
-## Day 76: March 28, 2022
+## Day 76: March 22, 2022
 
 ### Today's Progress
 
@@ -1326,21 +1329,21 @@ then practice the features that I may use. Read -> Try
 1. Find the real problem in JavaScript library is easier than some other languages.
 
 
-## Day 77: March 29, 2022
+## Day 77: March 23, 2022
 
 ### Today's Progress
 
 1. Finish signin and signup page.
 
 
-## Day 78: March 30, 2022
+## Day 78: March 24, 2022
 
 ### Today's Progress
 
 1. Read Cordova's documents and f7-vue-webpack-template's hooks.
 
 
-## Day 79: March 31, 2022
+## Day 79: March 25, 2022
 
 ### Today's Progress
 
@@ -1348,7 +1351,7 @@ then practice the features that I may use. Read -> Try
 2. Try to use keychain.
 
 
-## Day 80: April 1, 2022
+## Day 80: March 26, 2022
 
 ### Today's Progress
 
@@ -1356,7 +1359,7 @@ then practice the features that I may use. Read -> Try
 2. Scan the f7-vue-webpack-template's dev settings.
 
 
-## Day 81: April 2, 2022
+## Day 81: March 27, 2022
 
 ### Today's Progress
 
@@ -1368,7 +1371,7 @@ then practice the features that I may use. Read -> Try
 1. Have to read the original documents. After that, if problem hasn't been resolved, I'll need to find the source codes.
 
 
-## Day 82: April 3, 2022
+## Day 82: March 28, 2022
 
 ### Today's Progress
 
@@ -1380,21 +1383,21 @@ then practice the features that I may use. Read -> Try
 1. I've learned a lot about colleagues.
 
 
-## Day 83: April 4, 2022
+## Day 83: March 29, 2022
 
 ### Today's Progress
 
 1. Use vue's mixin to optimize the code.
 
 
-## Day 84: April 5, 2022
+## Day 84: March 30, 2022
 
 ### Today's Progress
 
 1. Read webpack's core concepts.
 
 
-## Day 85: April 5, 2022
+## Day 85: March 31, 2022
 
 ### Today's Progress
 
@@ -1402,21 +1405,21 @@ then practice the features that I may use. Read -> Try
 2. Read the webpack settings from vue-cli.
 
 
-## Day 86: April 6, 2022
+## Day 86: April 01, 2022
 
 ### Today's Progress
 
 1. Modify cordova template framework7 vue webpack setting.
 
 
-## Day 87: April 7, 2022
+## Day 87: April 01, 2022
 
 ### Today's Progress
 
 1. Do some F7 page settings.
 
 
-## Day 88: April 8, 2022
+## Day 88: April 02, 2022
 
 ### Today's Progress
 
@@ -1427,21 +1430,21 @@ then practice the features that I may use. Read -> Try
 1. Think more times about what to do.
 
 
-## Day 89: April 9, 2022
+## Day 89: April 03, 2022
 
 ### Today's Progress
 
 1. Finish the most of settings page.
 
 
-## Day 90: April 10, 2022
+## Day 90: April 04, 2022
 
 ### Today's Progress
 
 1. Finish idea lists page.
 
 
-## Day 91: April 11, 2022
+## Day 91: April 05, 2022
 
 ### Today's Progress
 
@@ -1449,7 +1452,7 @@ then practice the features that I may use. Read -> Try
 2. Start idea detail page.
 
 
-## Day 92: April 12, 2022
+## Day 92: April 06, 2022
 
 ### Today's Progress
 
@@ -1457,21 +1460,21 @@ then practice the features that I may use. Read -> Try
 2. Add comment popup.
 
 
-## Day 93: April 13, 2022
+## Day 93: April 07, 2022
 
 ### Today's Progress
 
 1. Add comment and idea popup by a same component.
 
 
-## Day 94: April 14, 2022
+## Day 94: April 08, 2022
 
 ### Today's Progress
 
 1. Fix a problem about navbar's align.
 
 
-## Day 95: April 15, 2022
+## Day 95: April 09, 2022
 
 ### Today's Progress
 
@@ -1479,35 +1482,35 @@ then practice the features that I may use. Read -> Try
 2. Add preload animations for ideas.
 
 
-## Day 96: April 16, 2022
+## Day 96: April 10, 2022
 
 ### Today's Progress
 
 1. Fix some bugs.
 
 
-## Day 97: April 17, 2022
+## Day 97: April 11, 2022
 
 ### Today's Progress
 
 1. Use cordova-plugin-file to get logs.
 
 
-## Day 98: April 18, 2022
+## Day 98: April 12, 2022
 
 ### Today's Progress
 
 1. Use file plugin to store data.
 
 
-## Day 99: April 19, 2022
+## Day 99: April 13, 2022
 
 ### Today's Progress
 
 1. Customize statusbar.
 2. Modify add card's view.
 
-## Day 100: April 20, 2022
+## Day 100: April 14, 2022
 
 ### Today's Progress
 
