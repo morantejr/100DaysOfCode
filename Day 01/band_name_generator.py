@@ -1,12 +1,9 @@
-def band_name():
+def bandName():
     
-  print("The best names come from your favorite things! \n")
-  
-  animal = input("What's your favorite animal? \n")
-  color = input("What's your favorite color? \n")
-  number = eval(input("What's your favorite number? \n"))
-  new_name = str(number) + " " + color + " " + animal
-  
-  print(f"Your Band Name is {new_name}!")
-  
-band_name()
+    print("Welcome to the Band Name Generator")
+    city = input("What\'s the name of the city you were born in:\n")
+    print(city)
+    pet = input("What\'s your pet\'s name?:\n")
+    print(f"Your band name could be {city.title()} {pet.title()}")
+    
+bandName()
